@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: FlashGBX v5.0\n"
-"Report-Msgid-Bugs-To: https://github.com/Lesserkuma/FlashGBX/issues\n"
+"Report-Msgid-Bugs-To: https://github.com/orzgithub/FlashGBX/issues\n"
 "POT-Creation-Date: 2026-06-09 20:05+0800\n"
 "PO-Revision-Date: 2026-06-09 20:05+0800\n"
 "Last-Translator: ZaindORp\n"
@@ -17,7 +17,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 3.8\n"
 
 #: ../package/FlashGBX/CartridgeTypes.py:32
 #: ../package/FlashGBX/CartridgeTypes.py:172
